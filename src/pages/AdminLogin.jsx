@@ -23,7 +23,7 @@ export default function AdminLogin() {
           </div>
 
           <h1 className="text-2xl font-bold text-slate-800">
-            Cleaning Management System
+            CLEANING MANAGEMENT SYSTEM
           </h1>
           <p className="mt-2 text-sm text-slate-500">
             Admin sign in to manage cleaning schedules

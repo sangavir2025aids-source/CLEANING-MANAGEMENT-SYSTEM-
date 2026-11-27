@@ -21,7 +21,7 @@ function AdminDashboard() {
           onClick={displaydata}
           className="rounded-lg bg-emerald-700 px-5 py-3 font-semibold text-white hover:bg-emerald-800"
         >
-          Display Admin Data
+          DISPLAY ADMIN DATA
         </button>
 
         {userdata ? (
